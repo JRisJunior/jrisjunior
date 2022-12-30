@@ -1,14 +1,21 @@
 # Hiya!
 
 ## Who Am I?
-Greetings y'all! My name is JR and welcome to my Github page! My pronouns are he/him, I am 35 years old, and currently live in the Chicagoland area. I've worked in the technology and fintech industries for over 6 years and am looking to expand my skillset even further.
+Greetings y'all! My name is JR and welcome to my Github page! My pronouns are he/him, I'm attending a coding bootcamp based in Chicago, and I currently live in the Chicagoland area. I've worked in the technology and fintech industries for over 6 years and am looking to expand my skillset even further.
 
 ## Currently Working On
 <p>
 <img align="right" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="codecat" width="100" height="100"/>
 </p>
+
 - Proceeding through the Actualize Coding Bootcamp! Graduating mid Feb 2023.
-- Writing a rough draft of a CYOA video game using Yarn Spinner! (gotta put learning Unity on the docket 😅)
+- Writing a rough draft of a CYOA video game using Yarn Spinner! (gotta put learning Unity on the ToDo list! 😅)
+
+## Fun Facts!
+- 🎭 I'm a trained professional actor!  I graduated from Illinois State U. with a B.S. in Acting (I know how that sounds, but that's just the abbreviation of Bachelor of Science and that is *not my fault*). I've also attended multiple workshops in Italy for Commedia Dell'arte taught by Antonio Fava.
+- 👺 (Continuing the theatre trend) I am part owner in a Commedia Dell'arte theatre company! We've existed since 2019 and have performed throughout the Chicagoland area.
+- 🧀 I'm lactose intolerant, but I love eating cheese. It's a problem.
+- 🎲 I'm an avid game player of all sorts! I've played in and DM'd multiple Dungeons and Dragons games, I play a *lot* of video games, and haven't played all the board games that I currently own (*Hmm, that ToDo list seems to be getting longer*).
 
 
 ## Tools and Software I've Used
